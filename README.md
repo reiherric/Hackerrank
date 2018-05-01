@@ -1,3 +1,2 @@
 # Hackerrank
-
-just following the hello-world tutorial :)
+My solutions to website's challenges
